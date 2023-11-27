@@ -1,0 +1,25 @@
+/* body{
+    background-color: brown;
+} */
+#resume {
+    /* display: none; */
+}
+
+#template {
+    display: none;
+}
+
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background {
+    background-color: aquamarine;
+
+}
+
+.font {
+    font-family: "Times New Roman", Times, serif;
+    ;
+}
